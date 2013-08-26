@@ -90,7 +90,7 @@
 				<a href="" data-icon="&#xe003;"></a>
 				<a href="" data-icon="&#xe006;"></a>
 				<a href="" data-icon="&#xe009;"></a>
-				<a href="" data-icon="&#xe007;"></a>
+				<a href="<?php bloginfo('rdf_url'); ?>" data-icon="&#xe007;"></a>
 			</section>
 
 			<nav id="cd-dropdown-mio" class="left menu cd-dropdown">
