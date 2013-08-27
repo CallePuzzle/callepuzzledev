@@ -87,9 +87,9 @@
 			</hgroup>
 
 			<section id="social" class="right grande">
-				<a href="" data-icon="&#xe003;"></a>
-				<a href="" data-icon="&#xe006;"></a>
-				<a href="" data-icon="&#xe009;"></a>
+				<a href="https://github.com/CallePuzzleOrg" data-icon="&#xe003;"></a>
+				<a href="https://twitter.com/callepuzzle" data-icon="&#xe006;"></a>
+				<a href="http://facebook.com/callepuzzle" data-icon="&#xe009;"></a>
 				<a href="<?php bloginfo('rss2_url'); ?>" data-icon="&#xe007;"></a>
 			</section>
 
