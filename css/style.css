@@ -254,7 +254,7 @@ ul li {
 	margin: 20px;
 }
 
-#cd-dropdown-mio a:focus, a:active, a:hover {
+#cd-dropdown-mio a:focus, #cd-dropdown-mio a:active, #cd-dropdown-mio a:hover {
     text-decoration: none;
 }
 
@@ -265,6 +265,11 @@ ul li {
 #social a {
 	color: #444444;
 	margin: 5px;
+}
+
+#social a:focus, #social a:active, #social a:hover {
+	color: #1b1b1b;
+	text-decoration: none;
 }
 
 @media screen and (max-width: 1050px) {
