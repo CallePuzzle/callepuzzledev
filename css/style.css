@@ -272,6 +272,10 @@ ul li {
 	text-decoration: none;
 }
 
+blockquote {
+	margin: 0;
+}
+
 @media screen and (max-width: 1050px) {
 	#lightboxImage{
 		max-width: 770px !important;
