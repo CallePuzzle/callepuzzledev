@@ -45,7 +45,8 @@
 				$tag_list,
 				esc_url( get_permalink() ),
 				the_title_attribute( 'echo=0' ),
-				get_the_author(),
+				//get_the_author(),
+				get_the_author_meta('first_name')." ".get_the_author_meta('last_name'),
 				esc_url( get_author_posts_url( get_the_author_meta( 'ID' ) ) )
 			);
 		?>
